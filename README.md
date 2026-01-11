@@ -1,10 +1,4 @@
-# Lab Test Three: Async & Thread Pools
-
-**Course:** Advanced Object-Oriented Programming  
-**Duration:** 30 minutes  
-**Total Marks:** 10
-
----
+# Async & Thread Pools
 
 ## 🎯 Overview
 
